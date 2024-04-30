@@ -1,0 +1,66 @@
+---
+title: "dss2024"
+css: styles/apa.css
+biblio-files:
+  - ../references.bib
+format:
+  html:
+    code-fold: true
+    toc: false
+    toc-depth: 3
+    self-contained: true
+  pdf:
+    number-sections: false
+    latex-engine: lualatex # xelatex # pdflatex
+    page-layout:
+       margin-left: 1in
+       margin-right: 1in
+    paper-size: "letter"
+    documentclass: "article"
+    geometry: "left=1in,right=1in,top=1in,bottom=1in" # Adjust margins if needed
+    header-includes:
+      - \usepackage{footnote}
+      - \usepackage{setspace} # Optional: for adjusting line spacing
+      - \usepackage{geometry} # Required for custom paper size
+      - \geometry{paperheight=14in} # Adjust paper height
+---
+
+## Quarto
+
+The file **`dss2024.qmd`** created in the root directory of your Quarto project is the main Quarto configuration file. This file is used to specify various project settings and options that apply globally to your Quarto project. Here's how you can use it in the context of your scenario:
+
+1.  **Project Settings**: The **`dss2024.qmd`** file allows you to define project-level settings such as metadata, default output formats, theme options, and plugins. You can specify these settings once in the configuration file, and they will apply to all documents within your project.
+
+2.  **Document Templates**: You can use the **`dss2024.qmd`** file to define custom document templates or styles that you want to apply to your documents. For example, you can specify a custom template for academic papers or presentations that you use across multiple assignments or classes.
+
+3.  **Output Formats**: Specify the default output formats for your documents in the **`dss2024.qmd`** file. For instance, if you frequently need to generate HTML, PDF, and Word documents for your assignments, you can define these output formats in the configuration file.
+
+4.  **Plugins and Extensions**: Quarto supports various plugins and extensions that enhance the functionality of your documents. You can use the **`dss2024.qmd`** file to enable or configure plugins and extensions that you want to use in your project.
+
+5.  **Version Control**: You can include the **`dss2024.qmd`** file in your version control system (e.g., Git) along with the rest of your project files. This ensures that project settings and configurations are consistent across collaborators and versions of your project.
+
+In summary, the **`dss2024.qmd`** file serves as the main configuration file for your Quarto project, allowing you to specify project-wide settings, document templates, output formats, plugins, and extensions. You can use it to set up your project according to your preferences and requirements, ensuring consistency and reproducibility across your documents.
+
+### Bibliography
+
+Yes, typically you would use just one **`references.bib`** file in your root directory for all the Quarto Markdown (**`.qmd`**) files in your project, regardless of the class or folder they are in. Here's how it works:
+
+1.  **Centralized Bib File**: You would maintain a single **`references.bib`** file in your project's root directory. This file contains all the bibliographic entries for your citations, regardless of which class or folder they are related to.
+
+2.  **Specify Bib File**: In the YAML front matter of each Quarto Markdown file (**`*.qmd`**), you specify the path to the **`references.bib`** file. This tells Quarto where to look for bibliographic information when generating citations and references.
+
+    For example, you might have a line in the YAML front matter of your Quarto Markdown files like this:
+
+    ```         
+    yaml
+    ```
+
+    Copy code
+
+    `biblio-files:   - ../references.bib`
+
+    This specifies that the **`references.bib`** file located in the parent directory (**`../`**) relative to the Quarto Markdown file should be used for citations and references.
+
+3.  **Consistency**: Using a single **`references.bib`** file for your entire project ensures consistency in your bibliographic data. It also makes it easier to manage and update your references since you only need to maintain one central file.
+
+By organizing your project in this way, with a central **`references.bib`** file in the root directory, you can efficiently manage citations and references across all your Quarto Markdown files, regardless of the class or folder they belong to.

@@ -1,0 +1,114 @@
+/* Base font size and line height */
+  body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    line-height: 2;
+  }
+
+/* Page margins */
+  @page {
+    margin: 1in;
+  }
+
+/* Title page */
+  .title-page {
+    text-align: center;
+  }
+
+.title-page h1 {
+  font-size: 24pt;
+  font-weight: bold;
+  margin-top: 2in;
+}
+
+.title-page .author {
+  font-size: 18pt;
+  margin-top: 1in;
+}
+
+.title-page .affiliation,
+.title-page .course {
+  font-size: 14pt;
+  margin-top: 0.5in;
+}
+
+/* Abstract */
+  #abstract {
+  margin-top: 1.5in;
+}
+
+#abstract > h2 {
+font-size: 14pt;
+font-weight: bold;
+text-align: center;
+}
+
+/* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-top: 1.5em;
+  }
+
+h1 {
+  font-size: 18pt;
+  text-align: center;
+}
+
+h2 {
+  font-size: 16pt;
+}
+
+h3 {
+  font-size: 14pt;
+}
+
+h4 {
+  font-size: 12pt;
+}
+
+h5, h6 {
+  font-size: 12pt;
+  font-style: italic;
+}
+
+/* Tables and figures */
+  table {
+    margin-top: 1.5em;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+table caption {
+  font-style: italic;
+  margin-bottom: 0.5em;
+}
+
+figure {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
+/* References */
+  .references {
+    margin-top: 1.5in;
+  }
+
+.references > h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+.csl-entry {
+  margin-bottom: 1em;
+  hanging-indent: 0.5in;
+}
