@@ -1,47 +1,67 @@
 ---
-title: "Deutsche Onlinel Ressourcen und Links"
+title: "Deutsche Online Ressourcen und Links"
 author: "Robert Cline"
 ---
 
-## PB Works 
+## PB Works
 
-* [Deutsche Sommmerschule 2024](http://sommerschule24.pbworks.com/w/page/157022646/Startseite%20-%20die%20Sommerschule%202024?email=rccline%40fastmail.fm)
+-   [Deutsche Sommmerschule 2024](http://sommerschule24.pbworks.com/w/page/157022646/Startseite%20-%20die%20Sommerschule%202024?email=rccline%40fastmail.fm)
 
-* [Rccline PBworks](http://rccline.pbworks.com/w/page/157025217/FrontPage)
+-   [Rccline PBworks](http://rccline.pbworks.com/w/page/157025217/FrontPage)
 
+- [Erstellung von Präsentationsfolien mit Quarto - Mine Cetinkaya-Rundel (2023)](https://www.youtube.com/watch?v=Qrz2rUWM-uY)
 
 ## Lieblings-YouTube-Kanäle
 
+-   [**Sandra Maischberger ARD Interviews**](https://www.youtube.com/watch?v=azmwbBJVNbs&t=159s)
 
-* [**Sandra Maischberger ARD Interviews**](https://www.youtube.com/watch?v=azmwbBJVNbs&t=159s) 
+-   [**Paul Ronzheimer und Sandra Maischberger**](https://www.youtube.com/watch?v=nRoX3ze-qCs&t=1212s)
 
-* [**Paul Ronzheimer und Sandra Maischberger**](https://www.youtube.com/watch?v=nRoX3ze-qCs&t=1212s)  
+-   [**Maithink X**](https://www.youtube.com/watch?v=pfvwnmPhIb0)
 
-* [**Maithink X**](https://www.youtube.com/watch?v=pfvwnmPhIb0)  
-  - [ZDF Dr. Mai Thi Nguyen-Kim Wissenshaftsjournalistin](https://www.zdf.de/show/mai-think-x-die-show)  
-  - [**WDR Doku Mit Mai Thi** *Was die Wissenschaft wirklich wei&szlig;*](https://www.youtube.com/watch?v=oJ1zm65u-ck)
+    -   [ZDF Dr. Mai Thi Nguyen-Kim Wissenshaftsjournalistin](https://www.zdf.de/show/mai-think-x-die-show)\
+    -   [**WDR Doku Mit Mai Thi** *Was die Wissenschaft wirklich weiß*](https://www.youtube.com/watch?v=oJ1zm65u-ck)
+
+-   [**Jung & Naiv - Claudia Kemfert**](https://www.youtube.com/watch?v=VJGMvceUa-8)
+
+    -   [Jung & Naiv - Interview mit Maja Göpel](https://www.youtube.com/watch?v=TyALENrGWyU&t=879s)
+
+-   [**Irgendwas mit ARTE und Kultur - Inteview mit Deborah Feldman**](https://www.youtube.com/watch?v=deeY5isVTQU&t=661s)
+
+-   [**SWR1 Leute - Inverview mit Maja Göpel**](https://www.youtube.com/watch?v=PWS7fSNJmaA)
+
+-   [**MDR Mitteldeutscher Rundfunk -- Kemferts Klima-Podcast**](https://www.youtube.com/watch?v=z_nJAHWRWU4) Warum Gegner des Atomausstiegs falsch liegen
+
+-   [**Jasmin Kosubek** - *Ex-ZDF-Moderator über die neue Ordnung und die Perversion des Staates \| Wolfgang Herles*](https://www.youtube.com/watch?v=UxA0CVlNzCI)
+
+## Nachrichten
+
+-   [**Tagesthemen**](https://www.youtube.com/watch?v=OFDq_3rofeM)
+
+-   [**ZDF heute**](https://www.zdf.de/nachrichten)
+
+- [**DW Deutsch** - *Urteil: AfD bleibt rechtsextremistischer Verdachtsfall | DW Nachrichten*](https://www.youtube.com/watch?v=YzcB42N8WCo&t=268s)
+
+## Klima
+
+-   [**Deutsche Filmakademie e.V. - Stefan Rahmstorf - Klimakrise. Neue Daten**](https://www.youtube.com/watch?v=re21TI7sBb8&t=1392s)
+
+- [**Terra X Lesch & Co** - *Die Wahrheit über die Energiewende: Mehr Schein als Sein?! | Harald Lesch | Terra X Lesch & Co*](https://www.youtube.com/watch?v=HHdoEyKCDvo&t=255s)
+
+- [**Climate Emergency Forum** - *Dr. James E. Hansen in Conversation with Paul Beckwith* (11/23)](https://www.youtube.com/watch?v=WTWUJ8Lvl-U&t=480s)  
+  - [**Global Warming in the Pipeline, Hansen et al (2023)**](https://academic.oup.com/oocc/article/3/1/kgad008/7335889?login=false)  
+  - [**SDSN** - *An Intimate Conversation with Leading Climate Scientists To Discuss New Research on Global Warming*](https://www.youtube.com/watch?v=NXDWpBlPCY8&t=0s)
   
-* [**Jung & Naiv - Claudia Kemfert**](https://www.youtube.com/watch?v=VJGMvceUa-8)  
-  - [Jung & Naiv - Interview mit Maja G&ouml;pel](https://www.youtube.com/watch?v=TyALENrGWyU&t=879s)
+  - [**Climate Chat** - *Hansen: Hope vs Hopium - Global Warming Acceleration (2024)*](https://www.youtube.com/watch?v=LQaU4FPtvbo), ^[Hansen, James, Makiko Sato, and Pushker Kharecha. “Global Warming Acceleration: Hope vs Hopium,” n.d. <https://www.columbia.edu/~jeh1/mailings/2024/Hopium.MarchEmail.2024.03.29.pdf>]
 
-* [**Irgendwas mit ARTE und Kultur - Inteview mit Deborah Feldman**](https://www.youtube.com/watch?v=deeY5isVTQU&t=661s)
+## Deutsch lernen  
 
-* [**SWR1 Leute - Inverview mit Maja G&ouml;pel**](https://www.youtube.com/watch?v=PWS7fSNJmaA) 
+* [**Deutsch-Podcast** - *Inteview mit Maria*](https://www.youtube.com/watch?v=2gP6tUVRGp8)  
 
-* [**MDR Mitteldeutscher Rundfunk -- Kemferts Klima-Podcast**](https://www.youtube.com/watch?v=z_nJAHWRWU4) 
-Warum Gegner des Atomausstiegs falsch liegen 
+* [**Deutsch mit Lara** - *6 Sachen über die deutsche Sprache, die ich gerne FRÜHER gewusst hätte | meine Erfahrung*](https://www.youtube.com/watch?v=6t72Zt_r0Co) 
 
-* [**Jasmin Kosubek** - *Ex-ZDF-Moderator über die neue Ordnung und die Perversion des Staates | Wolfgang Herles*](https://www.youtube.com/watch?v=UxA0CVlNzCI)  
-  
+* [**Deutsch mit Rieki** - *10 Ausdrücke, die du im Alltag auf Deutsch brauchst – Umgangssprache (B2, C1)*](https://www.youtube.com/watch?v=GB2N91TsN3E) 
 
-## Nachrichten  
+  - [**Deutsch mit Rieki** - *Deutsche Verben in gehobener Sprache (Deutsch für Fortgeschrittene B2 C1)*](https://www.youtube.com/watch?v=_Eu3Nt8VgWc)
 
-
-* [**Tagesthemen**](https://www.youtube.com/watch?v=OFDq_3rofeM)
-
-* [**ZDF heute**](https://www.zdf.de/nachrichten)  
-
-## Klima  
-
-* [**Deutsche Filmakademie e.V. - Stefan Rahmstorf - Klimakrise. Neue Daten**](https://www.youtube.com/watch?v=re21TI7sBb8&t=1392s)
 
